@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.accordion-contanier{
+    width: 100%;
+    padding: 30px;
+   
+}
+.accordion-row{
+    width: 80%;
+    margin: auto;
+    border: 5px solid black;
+    padding: 20px;
+}
+.accordion-contant{
+    
+}
+.active{
+    display: none;
+}
+
+.name-icon{
+    transform: rotate(180deg);
+}
